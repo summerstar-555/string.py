@@ -107,3 +107,10 @@ while 1:
     else:
         print('非数字,请输入数字')
 '''
+
+
+# chr与ord
+'''
+print(chr(97))  # 输出ASCII值为48的字符
+print(ord('a')) # 输出字符'a'的ascii值
+'''
